@@ -58,4 +58,6 @@ fish_year4
 fish_year5 <- fish_leslie %*% fish_year4
 fish_year5
 
+fish_year6 <- fish_leslie %*% fish_year5
+fish_year6
 ```
